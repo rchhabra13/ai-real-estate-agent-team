@@ -62,8 +62,8 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_real_estate_agent_team
+   git clone https://github.com/rchhabra13/ai_real_estate_agent_team.git
+   cd ai_real_estate_agent_team
    ```
 
 2. **Install the dependencies**:
